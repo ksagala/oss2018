@@ -1,0 +1,2 @@
+<h2 class="section-title"><%= @labels['about'] %></h2>
+<p itemprop="description">Konferencja społecznościowa, poświęcona technologiom związanym z Office 365, Exchange 2016, Skype for Business 2015 i Sharepoint 2016</p>
