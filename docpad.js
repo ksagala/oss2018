@@ -7,9 +7,9 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Office Servers Summit 2017",
+      name: "Office Servers Summit 2018",
       description: "Konferencja społecznościowa, poświęcona technologiom związanym z Office 365, Exchange 2016, Skype for Business 2015 i Sharepoint 2016",
-      date: "19 czerwca 2017",
+      date: "19 czerwca 2018",
       // If your event is free, just comment this line
       // price: "$100",
       venue: "Biuro Microsoft Polska",
@@ -20,15 +20,15 @@ module.exports = {
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    //callToAction: {
-    //    text: "Zarejestruj się!",
-    //    link: "https://officeserverssummit2017.evenea.pl/"
-    //},
+    callToAction: {
+        text: "Zarejestruj się!",
+        link: "https://officeserverssummit2017.evenea.pl/"
+    },
 
     // Site info
     site: {
-      theme: "yellow-swan",
-      url: "http://officeserverssummit2017.pepug.org"
+      theme: "ksg1",
+      url: "http://officeserverssummit2018.pepug.org"
     },
 
     // Active sections on the website
