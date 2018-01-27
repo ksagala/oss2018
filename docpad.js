@@ -71,7 +71,7 @@ module.exports = {
       },
       {
         name: "Konrad Sagała",
-        photo: "themes/yellow-swan/img/konsag.jpg",
+        photo: "themes/ksg1/img/konsag.jpg",
         bio: "Konrad od 1993 zajmuje się projektowaniem i wdrażaniem systemów informatycznych opartych o różne platformy sieciowe, od 1996 związany z platformą Microsoft Windows Server. Do jego specjalności należą: projektowanie i zarządzanie systemami usług pocztowych MS Exchange i pracy grupowej Skype for Business, projektowanie i zarządzanie systemami usług katalogowych MS Active Directory, projektowanie i zarządzanie infrastrukturą sieciową, usługami bezpieczeństwa i zarządzania tożsamością. Twórca Polskiej Grupy Profesjonalistów i Użytkowników Exchange PEPUG. Od 10 lat otrzymuje tytuł MVP, przez 9 lat w kategorii Exchange Server, ostatnio w kategorii Office Servers & Services.",
         company: "APN Promise S.A.",
         link: {
@@ -86,7 +86,7 @@ module.exports = {
       },
       {
         name: "Jacek Światowiak",
-        photo: "themes/yellow-swan/img/jacek.jpg",
+        photo: "themes/ksg1/img/jacek.jpg",
         bio: "Jacek jest absolwentem Politechniki Gdańskiej, gdzie od 2002 jest wykładowcą na Podyplomowym Studium. Autor szeregu publikacji, prelegent, trener i architekt rozwiązań serwerowych Microsoft, w szczególności z zakresu bezpieczeństwa, usług katologowych i usług komunikacyjnych. Od kilku lat wyróżnianiany przez Microsoft nagrodą MVP, ostatnio w kategorii Office Servers & Services.​",
         company: "APN Promise S.A.",
         link: {
@@ -105,7 +105,7 @@ module.exports = {
       },
       {
         name: "Rafał Langowski",
-        photo: "themes/yellow-swan/img/Rafal.jpg",
+        photo: "themes/ksg1/img/Rafal.jpg",
         bio: "",
         company: "Microsoft",
         link: {
@@ -124,7 +124,7 @@ module.exports = {
       },
       {
         name: "Marcin Iwanowski",
-        photo: "themes/yellow-swan/img/MarcinIwanowski.png",
+        photo: "themes/ksg1/img/MarcinIwanowski.png",
         bio: "Scrum Master / Starszy Programista SharePoint w F. Hoffmann-La Roche (poprzez 7N). Aktywny trener współpracujący z największymi ośrodkami edukacyjnymi w Polsce. Wykładowca Warszawskiej Wyższej Szkoły Informatyki. Od 2011 roku Microsoft Most Valuable Professional w kategorii Windows Platform Development. Prelegent wielu wydarzeń ogólnopolskich oraz spotkań społeczności .NET. Były lider 'Białostockiej Grupy .NET' a wcześniej największej w Polsce akademickiej grupy 'Grupa .NET Politechniki Białostockiej'. Od 2010 roku magister inżynier Informatyki, absolwent Politechniki Białostockiej.",
         company: "Hoffmann-La Roche",
         link: {
@@ -143,7 +143,7 @@ module.exports = {
       },
       {
         name: "Kamil Bączyk",
-        photo: "themes/yellow-swan/img/baczyk.jpg",
+        photo: "themes/ksg1/img/baczyk.jpg",
         bio: "Certyfikowany specjalista i pasjonat technologii, na co dzień konsultant i trener. Regularny uczestnik wielu projektów i wdrożeń związanych z technologiami serwerowymi Microsoft, chmurą prywatną i grupą BPOS - głównie środowisk opartych o Microsoft SharePoint, stanowiących biznesową podstawę przedsiębiorstw. Aktywnie dzieli się swoją wiedzą i promuje nowe rozwiązania wspierając społeczności offline i online WGUiSW, dodatkowo jeden z liderów PInG, laureat konkursu Speaker Idol 2009 i specjalista w 'Ask The Expert' na Microsoft Technology Summit. Microsoft MVP w kategorii Office Servers & Services.​",
         company: "APN Promise S.A.",
         link: {
@@ -162,7 +162,7 @@ module.exports = {
       },
       {
         name: "Emil Wasilewski",
-        photo: "themes/yellow-swan/img/emil.jpg",
+        photo: "themes/ksg1/img/emil.jpg",
         bio: "Cloud Solution Architect, trener, konsultant. Microsoft Most Valuable Professional w kategorii Microsoft Azure",
         company: "Cloudeon A/S",
         link: {
@@ -181,7 +181,7 @@ module.exports = {
       },
       {
         name: "Łukasz Kałużny",
-        photo: "themes/yellow-swan/img/lukaszkaluzny.jpg",
+        photo: "themes/ksg1/img/lukaszkaluzny.jpg",
         bio: "Cloud Architect, trener, konsultant. Microsoft Most Valuable Professional w kategorii Microsoft Azure",
         company: "Lingaro",
         link: {
@@ -200,7 +200,7 @@ module.exports = {
       },
       {
         name: "Adam Marczak",
-        photo: "themes/yellow-swan/img/AdamMarczak.jpg",
+        photo: "themes/ksg1/img/AdamMarczak.jpg",
         bio: "",
         company: "Lingaro",
         link: {
@@ -219,7 +219,7 @@ module.exports = {
     sponsors: [
       {
         name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
+        logo: "themes/ksg1/img/sponsor.png",
         url: "http://eventick.com.br"
       }
     ],
@@ -228,22 +228,22 @@ module.exports = {
     partners: [
       {
         name: "APN Promise S.A.",
-        logo: "themes/yellow-swan/img/logoPromise.png",
+        logo: "themes/ksg1/img/logoPromise.png",
         url: "http://www.promise.pl"
       },
       {
         name: "Audiocodes",
-        logo: "themes/yellow-swan/img/audiocodes.png",
+        logo: "themes/ksg1/img/audiocodes.png",
         url: "http://www.audiocodes.com"
       },
       {
         name: "Microsoft",
-        logo: "themes/yellow-swan/img/ms.png",
+        logo: "themes/ksg1/img/ms.png",
         url: "http://www.microsoft.com"
       },
       {
         name: "Polycom",
-        logo: "themes/yellow-swan/img/polycom.png",
+        logo: "themes/ksg1/img/polycom.png",
         url: "http://www.polycom.com"
       }
     ],
