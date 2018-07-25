@@ -10,7 +10,6 @@ module.exports = {
       name: "Office Servers Summit 2018",
       description: "Konferencja społecznościowa, poświęcona technologiom związanym z Office 365, Exchange 2019, Skype for Business 2019 i Sharepoint 2019",
       date: "5 września 2018",
-      // If your event is free, just comment this line
       // price: "$100",
       venue: "Biuro Microsoft Polska",
       address: "Al. Jerozolimskie 195A",

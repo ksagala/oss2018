@@ -1,5 +1,4 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
-<p>Agenda zawiera dwie ścieżki - Communication i Productivity.</p>
 <div class="schedule-tbl">
   <table>
     <thead>
