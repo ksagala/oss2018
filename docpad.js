@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Zarejestruj się!",
-        link: "https://officeserverssummit2017.evenea.pl/"
+        link: "https://officeserverssummit2018.evenea.pl/"
     },
 
     // Site info
