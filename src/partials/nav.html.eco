@@ -6,6 +6,9 @@
         <a href="#<%= section %>" target="_blank" title="<%= @labels[section] %>" class="nav-link"><%= @labels[section] %></a>
       </li>
     <% end %>
+      <li class="nav-item">
+        <a href="https://officeserverssummit2018.evenea.pl/" target="_blank" title="Rejestracja" class="nav-link"></a>
+      </li>
   </ul>
 </nav>
 
