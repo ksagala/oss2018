@@ -75,7 +75,7 @@ module.exports = {
         },
         presentation: {
           title: "Skype for Business 2019 - rozwiązanie dla środowisk hybrydowych",
-          description: "Choć wielu wątpiło to na rynek wkracza kolejna wersja Skype for Business Server, przeznaczona dla klientów pracujących lokalnie i środowiskach hybrydowych. Sesja pokaże zmiany i usprawniania w nowej wersji aplikacji",
+          description: "Choć wielu w to wątpiło, to na rynek wkracza kolejna wersja Skype for Business Server, przeznaczona dla klientów pracujących lokalnie i środowiskach hybrydowych. Sesja pokaże zmiany i usprawniania w nowej wersji aplikacji",
           time: "9:30-10:45"
         }
       },
@@ -89,8 +89,8 @@ module.exports = {
           text: ""
         },
         presentation: {
-          title: "Exchange 2019",
-          description: "Dlaczego warto aktualizować system do nowej wersji, jakie funkcjonalności zostały zmienione na lepsze, a jakie będą wycofywane",
+          title: "Nowości w Exchange 2019",
+          description: "NA sesji dowiemy się dlaczego warto aktualizować system pocztowy Exchange do nowej wersji, jakie funkcjonalności zostały usprawnione i dodane, a jakie będą wycofywane",
           time: "11:00-12:15"
         }
       },
@@ -109,7 +109,7 @@ module.exports = {
         },
         presentation: {
           title: "What's new in Sharepoint 2019",
-          description: "Nowe i już znane funkcjonalności nowej wersji systemu",
+          description: "Nowe i już znane funkcjonalności najnowszej wersji systemu Sharepoint",
           time: "13:00-14:15"
         }
       },
