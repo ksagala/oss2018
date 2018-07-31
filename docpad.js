@@ -35,9 +35,9 @@ module.exports = {
     // you can also change order here and it will reflect on page
     sections: [
       'about',
-      'location',
-      'speakers',
       'schedule',
+      'speakers',
+      'location',
       //'sponsors',
       'partners'
       // 'contact'
