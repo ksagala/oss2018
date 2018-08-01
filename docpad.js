@@ -80,6 +80,10 @@ module.exports = {
         }
       },
       {
+        name: "Przerwa",
+        time: "10:45-11:00"
+      },
+      {
         name: "Jacek Światowiak",
         photo: "themes/ksg1/img/jacek.jpg",
         bio: "Jacek jest absolwentem Politechniki Gdańskiej, gdzie od 2002 jest wykładowcą na Podyplomowym Studium. Autor szeregu publikacji, prelegent, trener i architekt rozwiązań serwerowych Microsoft, w szczególności z zakresu bezpieczeństwa, usług katologowych i usług komunikacyjnych. Przez kilka lat wyróżnianiany przez Microsoft nagrodą MVP, w kategoriach Directory Services, Exchange i Office Servers & Services.​",
