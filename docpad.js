@@ -121,7 +121,7 @@ module.exports = {
         name: "Łukasz Kałużny",
         photo: "themes/ksg1/img/lukaszkaluzny.jpg",
         bio: "Cloud Architect, trener, konsultant. Microsoft Most Valuable Professional w kategorii Microsoft Azure",
-        company: "???",
+        company: "",
         link: {
           href: "https://twitter.com/kaluzaaa",
           text: "@kaluzaaa"
