@@ -133,12 +133,12 @@ module.exports = {
         presentation: {
           title: "Użycie platformy Azure jako rozszerzenia aplikacji Office 365",
           description: "Platforma Office jak i Azure przenikają się nie tylko w obszarze zarządzania tożsamością i bezpieczeństwa ale również logiki aplikacyjnej. Tworząc aplikacje na platformie Office 365 jak i integrując komponenty Office sięgamy po takie usługi jak Azure Functions czy LogicApps. Na sesji zobaczymy jak można to zrobić?",
-          time: "14:30-15:15"
+          time: "14:30-15:30"
         }
       },
       {
         name: "Przerwa",
-        time: "15:15-15:30"
+        time: "15:30-15:45"
       },
       {
         name: "Piotr Pawlik",
@@ -152,7 +152,7 @@ module.exports = {
         presentation: {
           title: "Microsoft Teams - praca grupowa na platformie Office",
           description: "Microsoft Teams to narzędzie, które spina wykorzystuje inne narzędzia pakietu Office, jak Exchange, Sharepoint, etc do sprawdzej współpracy w zespołach zadaniowych. Jakie funkcjonalności już są, a jakie pojawią się w najbliższych miesiącach",
-          time: "15:30-16:45"
+          time: "15:45-16:45"
         }
       },
     ],
