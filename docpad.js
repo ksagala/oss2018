@@ -150,8 +150,8 @@ module.exports = {
           text: ""
         },
         presentation: {
-          title: "Microsoft Teams - praca grupowa na platformie Office",
-          description: "Microsoft Teams to narzędzie, które spina wykorzystuje inne narzędzia pakietu Office, jak Exchange, Sharepoint, etc do sprawdzej współpracy w zespołach zadaniowych. Jakie funkcjonalności już są, a jakie pojawią się w najbliższych miesiącach",
+          title: "Teams i Skype for Business – koegzystencja czy odseparowane wyspy?",
+          description: "Podczas sesji dowiedziesz się jak Microsoft Teams oraz Skype for Business wspierają koegzystencję pomiędzy sobą i jak wygląda migracja. Zostaną również zaprezentowane możliwości integracji platformy Microsoft Teams ze sprzętem konferencyjnym, a także scenariusze użycia.",
           time: "15:45-16:45"
         }
       },
