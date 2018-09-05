@@ -19,10 +19,10 @@ module.exports = {
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    callToAction: {
-        text: "Zarejestruj się!",
-        link: "https://officeserverssummit2018.evenea.pl/"
-    },
+    // callToAction: {
+    //    text: "Zarejestruj się!",
+    //    link: "https://officeserverssummit2018.evenea.pl/"
+    //},
 
     // Site info
     site: {
@@ -103,17 +103,17 @@ module.exports = {
         time: "12:15-13:00"
       },
       {
-        name: "Kamil Bączyk",
-        photo: "themes/ksg1/img/baczyk.jpg",
-        bio: "Kamil Bączyk jest światowej klasy ekspertem do spraw infrastruktury i cyberbezpieczeństwa. Jego zainteresowania zawodowe ogniskują się wokół infrastruktury Microsoft, w szczególności platformy biznesowej SharePoint, oraz technologii chmurowych takich jak Microsoft 365, Office 365 i Azure. Co ważne, na wszystkie te obszary patrzy z perspektywy cyberbezpieczeństwa i podatności na ataki hackerskie. Owocuje to licznymi projektami, przede wszystkim dla klientów korporacyjnych, największych światowych instytucji państwowych i organizacji rządowych. Kamila można również spotkać na prestiżowych konferencjach, gdzie bywa nie tylko prelegentem, ale i mentorem. Do najważniejszych z nich należą SecureTech Congress, TechRisk Management Forum, Microsoft Certified Trainers Summits, ShareCon365, konferencje SPS czy międzynarodowe sesje uniwersyteckie. Dzięki swoim wystąpieniom jest doskonale znany w środowisku IT z łączenia problematyki nowych technologii z potrzebami biznesowymi klientów. Potwierdzeniem tych umiejętności są uzyskane przez niego certyfikaty – związane nie tylko ze środowiskiem Microsoft. Kamil jest przede wszystkim pasjonatem, chętnie dzieli się swoją wiedzą z innymi i nieustannie bada nowe technologie. Pozwala mu to nie tylko na doskonalenie szkoleń, które prowadzi, lecz także rozszerzanie swojej oferty o najnowsze zagadnienia z dziedziny IT. Każdego roku bierze udział w konferencjach i projektach, zyskując coraz większe doświadczenie. Prowadzi treningi i konsultacje dla Klientów, którzy oczekują pełnego profesjonalizmu i szerokiej wiedzy. Sam przyznaje, że jest pracoholikiem, więc gdy zajdzie potrzeba, z uporem dąży do znajdowania coraz to nowych rozwiązań i nigdy się nie poddaje!",
+        name: "PAweł Czarnecki",
+        photo: "",
+        bio: "Paweł jest inżynierem systemowym w zespole usług komunikacyjnych, zajmuje się wdrażaniem i adaptacją usług Offfice 365",
         company: "APN Promise S.A.",
         link: {
           href: "https://twitter.com/KamilBaczyk",
           text: "@KamilBaczyk"
         },
         presentation: {
-          title: "What's new in Sharepoint 2019",
-          description: "Nowe i już znane funkcjonalności najnowszej wersji systemu Sharepoint",
+          title: "Zakładanie zespołów w Teams",
+          description: "Dobre praktyki przy wdrażaniu Microosft Teams - automatyzacja zadań",
           time: "13:00-14:15"
         }
       },
