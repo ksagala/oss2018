@@ -103,13 +103,13 @@ module.exports = {
         time: "12:15-13:00"
       },
       {
-        name: "PAweł Czarnecki",
+        name: "Paweł Czarnecki",
         photo: "",
         bio: "Paweł jest inżynierem systemowym w zespole usług komunikacyjnych, zajmuje się wdrażaniem i adaptacją usług Offfice 365",
         company: "APN Promise S.A.",
         link: {
-          href: "https://twitter.com/KamilBaczyk",
-          text: "@KamilBaczyk"
+          href: "",
+          text: ""
         },
         presentation: {
           title: "Zakładanie zespołów w Teams",
